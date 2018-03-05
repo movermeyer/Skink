@@ -9,8 +9,8 @@ Dependencies: Python 3, Tornado, Bottle
 pip install skink
 ```
 
-[![Latest Version](https://pypip.in/v/Skink/badge.png)](https://pypi.python.org/pypi/Skink)
-[![Downloads](https://pypip.in/d/Skink/badge.png)](https://pypi.python.org/pypi/Skink/)
+[![Latest Version](https://img.shields.io/pypi/v/Skink.svg)](https://pypi.python.org/pypi/Skink)
+[![Downloads](https://img.shields.io/pypi/dm/Skink.svg)](https://pypi.python.org/pypi/Skink/)
 
 Proof of Concept
 ---
